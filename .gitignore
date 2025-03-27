@@ -1,0 +1,17 @@
+# Ignore big files and generated files
+*.mp4
+*.json
+*.jpg
+*.png
+*.pt
+*.h5
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Mac system files
+.DS_Store
