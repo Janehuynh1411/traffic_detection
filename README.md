@@ -1,4 +1,4 @@
-# traffic_detection - Action-Slot Replication on ROAD++ dataset
+# Action-Slot Replication on ROAD++ dataset
 
 This project replicates the core ideas of the [Action-Slot model](https://github.com/HCIS-Lab/Action-slot) using the [ROAD++ Dataset](https://github.com/salmank255/Road-waymo-dataset). It aims to detect and classify complex road events from autonomous driving videos, using both global (ego-view) and local (object tube) features.
 
